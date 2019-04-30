@@ -1,5 +1,10 @@
 # Team xPace Capstone SCND - Object Detection Lab
 
+## Main SCMF Collaboration Area
+
+[xPace_Core_Source_Git](https://github.com/RichGit101/xPace_team.git)
+
+
 
 # CarND Object Detection Lab
 
