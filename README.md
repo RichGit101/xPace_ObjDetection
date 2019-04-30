@@ -1,4 +1,4 @@
-# Team xPace Capstone SCND - Object Detection Lab
+# Team xPace Capstone SCND - Sub Project Object Detection Lab
 
 ## Main SCMF Collaboration Area
 
