@@ -1,8 +1,8 @@
 # Team xPace Capstone SCND - Sub Project Object Detection Lab
 
-## Main SCMF Collaboration Area
+## Main Core Car xPace SCMF Collaboration Area
 
-[xPace_Core_Source_Git](https://github.com/RichGit101/xPace_team.git)
+Main Project to this sub project [xPace_Core_Source_Git](https://github.com/RichGit101/xPace_team.git)
 
 
 
